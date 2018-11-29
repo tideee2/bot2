@@ -1,0 +1,10 @@
+{
+  "token": "756717006:AAGTX2KROtWKVa0r2IpW1ypRx-40Gy5aKJc",
+  "host": "localhost",
+  "port": "27017",
+  "server": "3005",
+  "database": "bot-users",
+  "user": "",
+  "password": "",
+  "secret": "vasya"
+}

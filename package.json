@@ -1,0 +1,24 @@
+{
+  "name": "tgbot",
+  "version": "1.1.0",
+  "description": "new bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tideee2/bot2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tideee2/bot2/issues"
+  },
+  "homepage": "https://github.com/tideee2/bot2#readme",
+  "dependencies": {
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.14",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
