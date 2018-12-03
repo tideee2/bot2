@@ -25,6 +25,23 @@ let user = new Schema({
         chatId: {
             type: String,
             required: true
+        },
+        social: {
+            type: String,
+            required: false
+        },
+        tel: {
+            type: String,
+            required: false
+        },
+        specialization: {
+            type: String,
+            required: false
+        },
+        tournaments: {
+            type: Array,
+            required: false,
+            default: []
         }
     },
     {
